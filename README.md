@@ -37,11 +37,11 @@ This repository contains a collection of data visualization projects using **Mat
    ```bash
    cd DATA_VISUALIZATION
    ```
-3.Install required packages (if not installed):
+3. Install required packages (if not installed):
   ```
   pip install matplotlib seaborn pandas numpy
   ```
-4.Open the Jupyter notebooks to explore visualizations:
+4. Open the Jupyter notebooks to explore visualizations:
   ```
   jupyter notebook  
   ```
